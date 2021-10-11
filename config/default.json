@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://aditya18:Don1bosco8tura@contactkeeper.mlthy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "semen"
+}
